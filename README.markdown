@@ -52,4 +52,4 @@ Contributing/Patches/Bug Fixes
 Copyright
 ---------
 
-Copyright (c) 2009 Uamuzi Bora. Licensed under the BSD License. See LICENSE.txt for details.
+Copyright (c) 2009-2010 Uamuzi Bora. Licensed under the BSD License. See LICENSE.txt for details.
